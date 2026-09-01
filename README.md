@@ -15,10 +15,10 @@
     <td>Trojan</td>
   </tr>
   <tr>
-    <td>STC</td>
-    <td>速度快，老牌机场，有IPLC节点 </td>
-    <td><a href="https://stt.txyun.xyz/" target="_blank">https://stt.txyun.xyz</a></td>
-    <td>SSR和V2ray</td>
+    <td>快雷GO</td>
+    <td>实惠，有不限时套餐（码：aa555）</td>
+    <td><a href="https://kjvm.github.io/kl" target="_blank">https://kjvm.github.io/kl</a></td>
+    <td>Vless</td>
   </tr>
   <tr>
     <td>NaiU_Net</td>
@@ -75,10 +75,10 @@
     <td>SSR和V2ray</td>
   </tr>
   <tr>
-    <td>快雷GO</td>
-    <td>实惠，有不限时套餐（码：aa555）</td>
-    <td><a href="https://kjvm.github.io/kl" target="_blank">https://kjvm.github.io/kl</a></td>
-    <td>Shadowsocks</td>
+    <td>顺畅网络</td>
+    <td>实惠，有不限时套餐</td>
+    <td><a href="https://kjvm.github.io/sc" target="_blank">https://kjvm.github.io/sc</a></td>
+    <td>Vless</td>
   </tr>
   <tr>
     <td>ExpressVPN</td>
